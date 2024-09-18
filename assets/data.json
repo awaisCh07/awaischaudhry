@@ -1,0 +1,105 @@
+{
+    "name": "Muhammad Awais Chaudhry",
+    "email": "chaudhryawais.533@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "Mobile Application Developer",
+        "Web Developer"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "socialLinks": [
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/awais_chaudhry533"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/awais-chaudhry533"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/awaisCh07"
+        }
+    ],
+    "aboutMeHeadline": "I'm Muhammad Awais, a Flutter developer.",
+    "aboueMeDetails": "I’m a dedicated Flutter developer with a Bachelor's in Software Engineering from UCP and over two years of experience building cross-platform mobile apps for Android, iOS, and the web. My work focuses on creating efficient, scalable, and high-performance applications tailored to meet specific business needs. I’ve collaborated with startups, helping them launch their ideas through well-structured and robust mobile solutions. From integrating advanced features like Payment Systems, Push Notifications, Maps, and Web/REST APIs to ensuring seamless cross-platform performance, I take pride in delivering top-tier apps. I’ve successfully published apps on both the Google Play Store and the App Store, showcasing my commitment to quality and user satisfaction.",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "React Native"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Mobile app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Rapid Prototyping",
+            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+        },
+        {
+            "icon": "assets/services/web.png",
+            "name": "Web Development",
+            "description": "Website development via Flutter\n- Working MVP\n- Quick & Working prototype"
+        }
+
+    ],
+    "hireMe": {
+        "whatsapp": "923324449533"
+    },
+    "projects": [
+        {
+            "title": "Attendance Management System",
+            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+            "bannerUrl": "assets/projects/medkitB.png",
+            "description": "An Attendance Management System (AMS) designed to efficiently track employees' attendance and store their personal information. The app also streamlines the process for applying for leave and accessing pay slips, offering a comprehensive solution for managing workforce attendance and related administrative tasks."
+        },
+        {
+            "title": "CV Lab",
+            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
+            "bannerUrl": "assets/projects/medkitB.png",
+            "description": "CVLab is a cutting-edge resume building app that combines AI-generated CVs with easy customization. Users can upload their current resumes and upgrade them to sleek, modern versions tailored to specific job descriptions. With a range of templates available, CVLab helps elevate your career story effortlessly."
+        },
+        {
+            "title": "CrewDog TV",
+            "iconUrl": "https://drive.google.com/file/d/1jpkSQyGZP5EWPCIfRz-dU9TARXHN2P5o/view?usp=sharing",
+            "bannerUrl": "assets/projects/quranB.png",
+            "description": "Crewdog TV revolutionizes the job market with a dynamic, video-based hiring platform. Recruiters can effortlessly create engaging job videos by entering a prompt, with AI generating a tailored video that highlights the job description. These videos are then shared on a feed, similar to TikTok, where potential candidates can view and apply directly via an embedded button. The app also features Instagram-like messaging and a profile page, showcasing all posts and interactions. Whether you're hiring or job hunting, Crewdog TV makes the process interactive and intuitive."
+        },
+        {
+            "title": "Positive Path Meditation",
+            "iconUrl": "assets/projects/hereiam.png",
+            "bannerUrl": "assets/projects/hereiamB.png",
+            "description": "Positive Path Meditation is a cross-platform app designed to help you achieve inner peace and clarity. It offers a diverse selection of guided meditation sessions tailored to reduce stress, enhance focus, and promote positivity. With its user-friendly interface, you can easily integrate these calming practices into your daily routine and embark on a journey towards a more balanced and serene life."
+        },
+        {
+            "title": "JobSense",
+            "iconUrl": "assets/projects/covid.png",
+            "bannerUrl": "assets/projects/covidB.png",
+            "description": "JobSense is an innovative app designed to streamline the job search and recruitment process. Developed as a final year project, JobSense leverages advanced AI and semantic search technology to connect users with their ideal job opportunities and profiles. The app creates professional CVs, similar to CVLab, and offers a powerful search functionality that matches user queries with relevant job listings and profiles. By understanding and interpreting user prompts, JobSense ensures that both job seekers and recruiters find the perfect fit quickly and efficiently."
+        },
+        {
+            "title": "Live Streaming Application",
+            "iconUrl": "assets/projects/messenger.png",
+            "bannerUrl": "",
+            "description": "LiveStream Connect is a cutting-edge live streaming app that explores real-time data transmission. Utilizing a Node.js server for data handling and Flutter for both web and mobile interfaces, it allows users to start and view live streams with ease. Experience the technology behind live streaming with seamless data management and cross-platform accessibility."
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Lahore, Pakistan"
+        },
+        {
+            "param": "phone",
+            "value": "+92 332 4449533"
+        },
+        {
+            "param": "email",
+            "value": "chaudhryawais.533@gmail.com"
+        }
+    ]
+}
